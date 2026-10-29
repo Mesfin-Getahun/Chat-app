@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259141381172",
+    "project_id": "bestiesync-eb748",
+    "storage_bucket": "bestiesync-eb748.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259141381172:android:58a08c4e5c789576786e61",
+        "android_client_info": {
+          "package_name": "com.bestie.chatapp.bestie_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMxBPYlYjI0TgJFiKTv2QRb81g_iE3Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
